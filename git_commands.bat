@@ -7,4 +7,4 @@ git commit -m "adding src folder from batch file"
 git remote add cloudOps https://shivpoojan2015:shivpoojan@123/shivpoojan2015/MainRepo.git
 git push -u cloudOps master
 
-pause
+pause 
